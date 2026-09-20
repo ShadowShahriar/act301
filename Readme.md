@@ -8,12 +8,12 @@
 Course Code    : ACT 301
 Course Title   : Accounting and Management
 Course Credit  : 3 (Theory)
-Classroom Code : -
+Classroom Code : b32znfx6
 ```
 
 Course offered by,
 
-[**Md. Billal Hossain**](https://www.bubt.edu.bd/department/department-of-accounting/faculty/profile/BH)<br>Lecturer<br>+880 164 0888 457 (WhatsApp)<br>Department of Computer Science and Engineering<br>**billalbappy57@gmail.com**<br>
+[**Md. Billal Hossain**](https://www.bubt.edu.bd/department/department-of-accounting/faculty/profile/BH)<br>Lecturer<br>+880 164 0888 457 (WhatsApp)<br>Department of Accounting<br>**billalbappy57@gmail.com**<br>
 
 <!-- ## Course Materials
 
@@ -56,6 +56,7 @@ Course offered by,
 #### Mid Term
 
 - [**Class 01**](https://shadowshahriar.github.io/act301/notes/class-01.pdf): 15 September 2026
+- **Class 02**: 17 September 2026 (⛔ Proxy)
 
 <!-- - [**Class 02-03**](https://shadowshahriar.github.io/act301/notes/class-02-03.pdf): 13 May 2026
 - [**Class 04**](https://shadowshahriar.github.io/act301/notes/class-04.pdf): 18 May 2026
