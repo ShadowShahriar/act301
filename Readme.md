@@ -59,6 +59,7 @@ Course offered by,
 - [**Class 01**](https://shadowshahriar.github.io/act301/notes/class-01.pdf): 15 September 2026
 - **Class 02**: 17 September 2026 (⛔ Proxy)
 - [**Class 03**](https://shadowshahriar.github.io/act301/notes/class-03.pdf): 22 September 2026
+- [**Class 04**](https://shadowshahriar.github.io/act301/notes/class-04.pdf): 24 September 2026
 
 <!-- - [**Class 02-03**](https://shadowshahriar.github.io/act301/notes/class-02-03.pdf): 13 May 2026
 - [**Class 04**](https://shadowshahriar.github.io/act301/notes/class-04.pdf): 18 May 2026
